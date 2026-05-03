@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Scab.Shared/Scab.Shared.csproj" />
+    <Project Path="src/Scab.ServerD.Shared/Scab.ServerD.Shared.csproj" />
+    <Project Path="src/Scab.ServerD/Scab.ServerD.csproj" />
+    <Project Path="src/Scab.InteropWorker/Scab.InteropWorker.csproj" />
+  </Folder>
+</Solution>

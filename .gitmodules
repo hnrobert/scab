@@ -4,3 +4,6 @@
 [submodule "src/vscode-scab"]
 	path = src/vscode-scab
 	url = git@github.com:hnrobert/vscode-scab.git
+[submodule "src/Scab.InteropWorker"]
+	path = src/Scab.InteropWorker
+	url = git@github.com:hnrobert/Scab.InteropWorker.git

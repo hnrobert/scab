@@ -1,0 +1,27 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll
+*.pdb
+*.exe
+*.log
+
+## VS Code extension
+src/vscode-scab/node_modules/
+src/vscode-scab/out/
+src/vscode-scab/.vscode-test/
+src/vscode-scab/*.vsix
+
+## IDE
+.idea/
+.vs/
+.vscode/
+
+## OS
+.DS_Store
+Thumbs.db
+
+settings.local.json
