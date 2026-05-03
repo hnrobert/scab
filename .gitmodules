@@ -1,0 +1,6 @@
+[submodule "src/Scab.ServerD"]
+	path = src/Scab.ServerD
+	url = git@github.com:hnrobert/Scab.ServerD.git
+[submodule "src/vscode-scab"]
+	path = src/vscode-scab
+	url = git@github.com:hnrobert/vscode-scab.git
